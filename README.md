@@ -1,0 +1,2 @@
+# patikaveriyapilariprojeler
+Veri Yapıları Projeler
